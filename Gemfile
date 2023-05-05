@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'nokogiri', '1.14.3'
-
 group :test do
   gem 'byebug', "~> 11.1"
 end
@@ -9,3 +7,5 @@ end
 group :development do
   gem 'rspec'
 end
+
+gem 'user_agent_parser', '2.0.0'
