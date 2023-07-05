@@ -8,4 +8,4 @@ group :development do
   gem 'rspec'
 end
 
-gem 'user_agent_parser', '2.0.0'
+gem 'user_agent_parser', '2.6.0'
